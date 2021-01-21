@@ -4,3 +4,5 @@
 
 ## Lenguajes de programación
 <h3 align = "center"> JAVA   |   HTML   |   CSS</h3>
+
+linkedin: https://www.linkedin.com/in/carlos-tardez-asin-37a848204/
