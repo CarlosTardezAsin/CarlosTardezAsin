@@ -1,7 +1,7 @@
 ## Hi there, I'm Carlos Tardez 👋
 
 - 🔭 I’m currently working on [Deloitte][work]!
-- 🌱 I’m currently learning Rust, TypeScriot and Angular.
+- 🌱 I’m currently learning Rust, TypeScript and Angular.
 - 🥅 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
