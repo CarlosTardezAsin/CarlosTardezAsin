@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Viume][work]!
 - 🌱 I’m currently learning Rust, TypeScript, NestJs and Angular.
-- 🥅 Goals: Contribute more to Open Source projects and be better developer
+- 🥅 Goals: Contribute more to Open Source projects and be better a developer
 
 ### Connect with me:
 
