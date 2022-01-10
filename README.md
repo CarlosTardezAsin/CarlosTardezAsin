@@ -1,8 +1,8 @@
 ## Hi there, I'm Carlos Tardez 👋
 
-- 🔭 I’m currently working on [Deloitte][work]!
-- 🌱 I’m currently learning Rust, TypeScript and Angular.
-- 🥅 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on [Viume][work]!
+- 🌱 I’m currently learning Rust, TypeScript, NestJs and Angular.
+- 🥅 Goals: Contribute more to Open Source projects and be better developer
 
 ### Connect with me:
 
@@ -29,5 +29,5 @@
 
 <img align="left" alt="CarlosTardezAsin" src="https://github-readme-stats.vercel.app/api?username=CarlosTardezAsin&show_icons=true&hide_border=true" />
 
-[work]: https://www2.deloitte.com
+[work]: https://viume.co/
 [linkedin]: https://www.linkedin.com/in/carlos-tardez-asin-37a848204
